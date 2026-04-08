@@ -1,0 +1,146 @@
+Q: Bagaimana kalau Kartu ATM saya hilang?
+A: Hal pertama yang harus dilakukan adalah memblokir kartu yang hilang melalui  :
+   a.Call Center 
+   Hubungi call center Bank Sumsel Babel 1500711
+   Petugas call center akan melakukan verifikasi data
+   Petugas call center akan melakukan blokir pada kartu
+   b.Kantor Bank Sumsel Babel
+   Siapkan KTP, Buku Tabungan dan Materai
+   Petugas Bank Sumsel Babel akan melakukan blokir terhadap kartu ATM lama
+   Petugas Bank Sumsel Babel melakukan proses penggantian Kartu ATM
+
+   Melakukan penggantian kartu ATM 
+   a.Nasabah datang ke Kantor Bank Sumsel Babel terdekat
+   b.Siapkan KTP dan Buku Tabungan
+   c.Nasabah mengisi surat pernyataan kehilangan Kartu ATM diatas Materai
+   d.Petugas Bank Sumsel Babel melakukan proses penggantian Kartu ATM
+
+Q: Bagaimana kalau Kartu ATM saya terblokir?
+A: Nasabah datang ke Kantor Bank Sumsel Babel terdekat dan melakukan permintaan 	
+   1. pembukaan blokir Kartu ATM
+   2. Mengisi form pengaduan Nasabah
+   3. Menunjukkan kartu identitas asli yang masih berlaku dan kartu ATM yang terblokir
+   4. Kartu ATM dapat langsung digunakan setelah pembukaan blokir dilakukan 
+
+Q: Bagaimana kalau Kartu ATM saya tertelan di mesin ATM?
+A: Hal pertama yang harus dilakukan adalah memblokir kartu yang tertelan melalui  :
+   a.Call Center 
+   Hubungi call center Bank Sumsel Babel 1500711
+   Petugas call center akan melakukan verifikasi data
+   Petugas call center akan melakukan blokir pada kartu
+   b.Kantor Bank Sumsel Babel
+   Siapkan KTP dan Buku Tabungan
+   Petugas Bank Sumsel Babel melakukan blokir terhadap kartu ATM
+   Nasabah mengisi form pengaduan nasabah 
+
+   Nasabah mengajukan pengaduan
+   a.Untuk kartu ATM yang tertelan di mesin ATM Bank Sumsel Babel
+   Nasabah datang ke Kantor Bank Sumsel Babel
+   Siapkan KTP dan Buku Tabungan
+   Nasabah mengisi form pengaduan nasabah
+   Petugas bank menawarkan kepada nasabah untuk mengganti Kartu ATM yang tertelan dengan Kartu ATM baru atau menunggu pengiriman Kartu ATM yang tertelan
+   Apabila nasabah memilih untuk mengganti Kartu ATM baru, petugas Bank Sumsel Babel akan melakukan proses penggantian Kartu ATM
+   Apabila nasabah memilih untuk menunggu pengiriman Kartu ATM yang tertelan, 	petugas bank berkoordinasi dengan penanggung jawab mesin ATM ditempat kartu ATM tertelan 
+   Petugas Bank Sumsel Babel akan menghubungi nasabah untuk melakukan pengambilan 	kartu ATM yang tertelan
+   b.Untuk kartu ATM yang tertelan di mesin ATM bank lain 
+   Nasabah datang ke Kantor Bank Sumsel Babel
+   Siapkan KTP dan Buku Tabungan
+   Nasabah mengisi form pengaduan nasabah
+   Petugas Bank Sumsel Babel akan melakukan proses penggantian Kartu ATM
+
+Q: Bagaimana kalau saya lupa PIN Kartu ATM?
+A: Nasabah dapat menghubungi call center atau kantor cabang terdekat dan melakukan pengecekan apakah Kartu ATM Bank Sumsel Babel telah terblokir karena lupa PIN.
+   Apabila kartu ATM terblokir karena kesalahan PIN 3 kali namun nasabah masih ingat 6 digit PIN Kartu ATM nya :
+   a.Nasabah datang ke Kantor Bank Sumsel Babel terdekat dan melakukan permintaan pembukaan blokir Kartu ATM
+   b.Mengisi form pengaduan Nasabah
+   c.Menunjukkan kartu identitas asli yang masih berlaku dan Kartu ATM
+   d.Kartu ATM dapat langsung digunakan setelah pembukaan blokir dilakukan di cabang
+   Apabila nasabah lupa 6 digit PIN Kartu ATM-nya :
+   a.Nasabah datang ke kantor Bank Sumsel Babel terdekat
+   b.Siapkan KTP, Kartu ATM dan Buku Tabungan
+   c.Mengisi form pengaduan Nasabah
+   d.Petugas Bank Sumsel Babel melakukan proses penggantian Kartu ATM
+
+Q: Bagaimana kalau buku tabungan saya hilang?
+A: Nasabah dapat mengunjungi Kantor Bank Sumsel Babel terdekat untuk pengajuan Buku Tabungan baru dengan membawa dokumen berupa:
+   Kartu ATM 
+   KTP
+   Materai
+
+Q: Bagaimana kalau saya lupa username/password Mobile Banking
+A: Masuk ke aplikasi Mobile Banking
+   Klik fitur Lupa Kata Sandi/ Lupa ID Pengguna yang ada di bagian bawah pada 	halaman “Masuk ke akun anda” 
+
+Q: Bagaimana kalau saya lupa username/password Internet Banking
+A: Nasabah dapat mengunjungi Kantor Bank Sumsel Babel terdekat dengan membawa dokumen berupa:
+   Kartu ATM
+   KTP
+   Buku Tabungan
+
+Q: Bagaimana kalau saya lupa MPIN akun Mobile Banking
+A: Nasabah mengunjungi Kantor Bank Sumsel Babel terdekat dengan membawa dokumen berupa:
+   a.KTP 
+   b.Buku Tabungan
+   Mengisi dan menandatangani Formulir Pemeliharaan Layanan Mobile Banking
+   Petugas melakukan reset MPIN Mobile Banking Nasabah
+   Nasabah melakukan proses aktivasi akun Mobile Banking melalui aplikasi Mobile Banking
+
+Q: Bagaimana cara membuka rekening simpanan di Bank Sumsel Babel?
+A: Pembukaan rekening online melalui aplikasi Customer On Bording
+   a.Nasabah/Calon Nasabah membuka aplikasi COB BSB yang dapat diunduh melalui 	Playstore
+   b.Pada halaman “Welcoming Page” pilih tombol Daftar untuk melakukan registrasi.
+   c.Nasabah/Calon Nasabah melakukan proses registrasi meliputi : 
+   Registrasi sebagai customer baru atau customer eksisting
+   Pemilihan produk tabungan
+   Melengkapi identitas diri
+   Upload Swafoto
+   Upload Foto Kartu NPWP (untuk nasabah/ calon nasabah yang sudah memiliki NPWP)
+   Pengisian Formulir Pertanyaan
+   Pembuatan Password dan PIN Transaksi
+   Pemilihan jenis kartu ATM dan alamat pengiriman Kartu ATM
+   Pemilihan Jadwal Video Call dengan Call Agent COB
+   d.Setelah registrasi disetujui pihak Bank Sumsel Babel, nasabah akan mendapat informasi bahwa registrasi telah disetujui melalui notifikasi dan email, sekaligus mendapatkan nomor rekening Bank Sumsel Babel.
+   e.Nasabah melakukan penyetoran dana ke rekening minimal sebesar jumlah saldo minimum jenis tabungan yang dipilih
+   f.Petugas Bank Sumsel Babel melakukan pengiriman Kartu ATM ke alamat nasabah
+   g.Nasabah melakukan aktivasi Kartu ATM pada aplikasi COB BSB dengan memasukkan Nomor Kartu ATM dan pembuatan PIN ATM baru
+   h.Aktivasi kartu ATM akan diverifikasi menggunakan kode OTP dan PIN Transaksi
+
+   Pembukaan rekening secara offline dengan mengunjungi Kantor Bank Sumsel Babel terdekat dengan membawa :
+   a.KTP 
+   b.NPWP (jika ada)
+   c.Kartu Keluarga
+   d.Pas Foto terbaru
+   e.Setoran awal sesuai dengan jenis rekening yang diinginkan
+
+Q: Bagaimana ketentuan mengenai penyetoran rekening untuk nasabah yang melakukan pembukaan rekening mel
+A: Setelah registrasi nasabah diverifikasi dan disetujui, nasabah akan mendapatkan 	nomor rekening Bank Sumsel Babel
+   Nasabah melakukan penyetoran dana ke rekening minimal sebesar jumlah saldo 	minimum jenis tabungan yang dipilih
+   Penyetoran dana ke rekening dapat dilakukan dengan :
+   a.Transfer melalui rekening Bank Sumsel Babel
+   b.Transfer melalui rekening Bank lain
+   c.Setoran tunai di loket teller
+   Penyetoran dana ke rekening tidak melebihi pukul 19.00 WIB di hari yang sama dengan saat registrasi nasabah dinyatakan disetujui
+   Apabila nasabah belum melakukan penyetoran dana ke rekening sesuai waktu yang telah ditentukan maka rekening tersebut akan tertutup secara otomatis oleh sistem, sehingga nasabah harus mengulangi tahapan awal registrasi pembukaan rekening.
+
+Q: Cara Registrasi Internet Banking Banking
+A: Registrasi dapat dilakukan di Customer Service Bank Sumsel Babel terdekat atau melalui mesin ATM Bank Sumsel Babel.
+   Apabila proses registrasi telah dilakukan, selanjutnya nasabah dapat melakukan aktivasi akun di CS Bank Sumsel Babel terdekat, khusus untuk CIB aktivasi yang dilakukan tersebut akan menghasilkan data otentikasi yang dibutuhkan dalam proses registrasi online di website https://ibank.banksumselbabel.com-.
+
+Q: Tidak Bisa Melakukan Registrasi Internet Banking
+A: Pastikan Status Kartu ATM dan Nomor Rekening dalam keadaan aktif. Selain dari pada itu nomor telepon yang digunakan merupakan nomor telepon dan email yang sama 	dengan yang ada di sistem Bank Sumsel Babel. Jika terdapat perbedaan, maka harus melakukan perubahan/pengkinian data terlebih dahulu.
+
+Q: Tidak Bisa Melakukan Aktivasi Internet Banking
+A: Pastikan User ID dan token yang digunakan sudah benar, jika aktivasi masih gagal maka perlu dilakukan pengecekan oleh customer service kami.
+
+Q: Lupa Username/Password Internet Banking
+A: Silahkan menghubungi Customer Service terdekat dan aktivasi kembali akun anda.
+
+Q: Tidak mendapatkan Kode OTP untuk transaksi IB
+A: Kode OTP erat hubungannya dengan provider yang digunakan. Apabila kode OTP tidak diterima, pastikan jaringan providernya dalam keadaan stabil, melakukan pengecekan kotak pesan masuk apakah dalam kondisi penuh dan khusus untuk akun perorangan dapat memastikan juga ketersediaan pulsa.
+
+Q: Tidak Bisa Login Internet Banking setelah keluar tanpa melalui menu logout
+A: Terkait dengan Internet Banking yang keluar tanpa melalui menu logout, maka nasabah harus menunggu terlebih dahulu sekitar 15 menit, kemudian dapat mencoba kembali dengan memastikan user id dan password yang dimasukkan benar.
+
+Q: Internet Banking tidak bisa digunakan
+A: Silakan dicek kembali link Internet Banking Bank Sumsel Babel atau konsultasi langsung dengan petugas Customer Service di cabang terdekat.
+   Transaksi dapat dilakukan melalui Internet Banking, Mobile Banking atau mesin ATM. Prosedur pengurusan dapat mengajukan klaim transaksi ke Customer Service 	di Kantor Cabang Bank Sumsel Babel terdekat dengan membawa Buku Tabungan, KTP Electronik asli beserta Kartu ATM atau mengajukan pengaduan melalui Call Center 1500711
